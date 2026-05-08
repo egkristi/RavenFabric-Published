@@ -1,10 +1,11 @@
 # RavenFabric — Pre-built Binaries
 
-Pre-built binaries for [RavenFabric](https://github.com/egkristi/RavenFabric), published automatically on each release.
+Pre-built binaries for RavenFabric, a secure remote execution and mesh networking agent.
+Published automatically on each release.
 
 ## Download
 
-Each release tag contains binaries for all supported platforms:
+Each release contains binaries for all supported platforms:
 
 | Platform | Binary |
 |----------|--------|
@@ -38,10 +39,6 @@ docker pull ghcr.io/egkristi/ravenfabric-cli:latest
 | Homebrew | `brew install egkristi/tap/ravenfabric` |
 | Cargo | `cargo install rf-cli` |
 
-## Source Code
-
-The source code lives at [egkristi/RavenFabric](https://github.com/egkristi/RavenFabric).
-
 ## License
 
-AGPL-3.0-or-later — see [LICENSE](https://github.com/egkristi/RavenFabric/blob/main/LICENSE).
+AGPL-3.0-or-later — see [LICENSE](LICENSE) and [LICENSING.md](LICENSING.md) for full details.
